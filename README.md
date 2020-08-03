@@ -1,0 +1,2 @@
+# Exploration-of-Biological-Data
+Concentration measurements of mRNA (taken by microarray) and protein (taken by LC-MS) of 500 genes taken at different timesteps within the cell cycle within a dataset, alongside some terms that indicate biological process (GOBP), molecular function (GOMF) and where they are located in the cell/component (GOCC). Proteins influence the majority of cell behaviour and it is thought that the concentration of any particular protein can be reliably inferred from it's respective mRNA level.
